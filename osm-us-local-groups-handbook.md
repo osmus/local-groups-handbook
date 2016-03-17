@@ -13,6 +13,7 @@ This Handbook is here to help you run your local OpenStreetMap focused community
 * Do not be discouraged if your events initially draw only a few people. Persistence is key.
 * Hold regular events at fixed days in the week or month so people can plan for it.
 * Make an effort to be as inclusive as possible. Consider that people have different lifestyles that come with different scheduling / dietary / travel constraints.
+* Always have at least one future event listed so people know that your group is alive and well.
 
 ### Existing OSM Centered Meetup groups
 

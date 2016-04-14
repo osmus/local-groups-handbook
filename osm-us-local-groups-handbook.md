@@ -38,7 +38,7 @@ Also consider this. Meetup.com has a [somewhat hidden feature](http://help.meetu
 
 The **OSM US board** is always happy to help with advice and ideas for your group. Please email us at board@openstreetmap.us.
 
-We have a **Slack channel** for local organizers. Slack is a group messaging system that can be used from your browser or apps for your computer or smartphone. You can sign up to join the Slack channel [here]().
+We have a **Slack channel** for local organizers. Slack is a group messaging system that can be used from your browser or apps for your computer or smartphone. You can sign up to join the Slack channel [here](https://osmus-slack.herokuapp.com/).
 
 The **talk-us mailing list** has been around for years and is a great way to announce your group or its events to the U.S. community at large, or ask the community for feedback or help. You can sign up for the mailing list [here](https://lists.openstreetmap.org/listinfo/talk-us).
 
